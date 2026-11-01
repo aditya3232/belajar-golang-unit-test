@@ -1,0 +1,7 @@
+.env
+coverage.out
+coverage.html
+bin/
+app
+*.exe
+*.test
